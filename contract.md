@@ -1,37 +1,3 @@
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see useful information and inline alerts.
-* ERRORs: 2
-* WARNINGs: 0
-* ALERTS: 2
-
-Conversion time: 3.972 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β40
-* Mon Jan 20 2025 17:48:51 GMT-0800 (PST)
-* Source doc: camelCase Contract
-
-ERROR:
-undefined internal link to this URL: "https://docs.google.com/document/d/1dM-UDQCrBpyYyWRQH4XyMqUGFZft0-0KUXs7PVM2790/edit#heading=h.sd5w0bnmnb8k".link text: Metadata for the Dataset: (URL, date downloaded, authorship, exact name and version, terms of use, suggested citation) 
-?Did you generate a TOC with blue links?
-
-
-ERROR:
-undefined internal link to this URL: "https://docs.google.com/document/d/1pXEgqts578CTXK76Ur0Sk-275LOyyZH4PhR3EFdPjmI/edit#heading=h.h8jfjcdyduzb".link text: How to Submit
-?Did you generate a TOC with blue links?
-
------>
-
 
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 2; WARNINGs: 0; ALERTS: 2.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
@@ -50,7 +16,7 @@ CS 257
 
 Jan 20 2025
 
-__Working Title: Carl's Nutrition__
+#H1 Working Title: Carl's Nutrition
 
 __What are the goals of our team? __
 
