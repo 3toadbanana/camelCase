@@ -1,80 +1,115 @@
+# Carl's Nutrition
 
-Song, Garg, Khalili, Said
+**Team Members:** Song, Garg, Khalili, Said  
+**Instructor:** Jean Salac  
+**Course:** CS 257  
+**Date:** Jan 20, 2025  
 
+---
 
+## Working Title
+Carl's Nutrition
 
-CS 257
+---
 
-Jan 20 2025
+## Team Goals
+For the final project, we want to make a functioning, aesthetic website that showcases Bon Appetit’s, Carleton College’s food vendor, nutritional and allergy data. In the bigger picture, we want to get a clear understanding of real-world programming while honing key skills such as team collaboration, multi-language coding, meaningful documentation, and applied ethical reasoning.
 
-__Working Title: Carl's Nutrition__
+---
 
-__What are the goals of our team? __
+## Team Strengths
 
-For the final project, we want to make a functioning, aesthetic website that showcases Bon Appetit’s, Carleton College’s food vender, nutritional and allergy data. In the bigger picture, we want to get a clear understanding of real world programming while honing key skills such as team collaboration, multi language coding, meaningful documentation, and applied ethical reasoning. 
+### Overall Strengths
+Our group has members who have previously worked with Flask, including a member experienced in building and deploying a dataset-backed website. We have good communication, with clearly agreed-upon modes of contact and meeting times. Below are some individual strengths we bring to the group.
 
-__What are the strengths of our team and its members? __
+### Individual Strengths
+- **Adit:** Has worked with Flask before, with experiences in multiple languages. As a prospective CS Major, he is motivated and engaged with this project.
+- **David:** POSC major. Strong writing background. Familiar with applied ethics in real-world situations. Although relatively less experienced in CS, this factor can allow for him to have a closer consumer/student perspective for the final product. Experienced with keeping meeting notes, organizing meetings, and streamlining/delegating work within a group.
+- **Beshir:** As a CS major, I have worked on CS projects and have experience in multiple languages and using GitHub. I enjoy these types of projects, which keeps me motivated for the task.
+- **Taha:** Have worked in CS-related team projects for website development, familiar with several languages, passionate about CS, good communication, and motivating other members.
 
-Overall, our group has members who have previously worked with Flask, with a member experienced with building as well as deploying a dataset-backed website. We have good communication, with clearly agreed upon modes of contact and meeting times. Below are some individual strengths we bring to the group. 
+---
 
-__Adit:__ Has worked with Flask before, with experiences in multiple languages. As a prospective CS Major, he is motivated and engaged with this project. 
+## Capitalizing on Strengths
 
-__David:__ POSC major. Strong writing background. Familiar with applied ethics in real world situations. Although relatively less experienced in CS, this factor can allow for him to have a closer consumer/student perspective for the final product. Experienced with keeping meeting notes, organizing meetings, and streamlining/delegating work within a group. 
+### Delegation Strategy
+We will delegate tasks efficiently and effectively. For example:
+- Members experienced with HTML will handle HTML components.
+- Members proficient with Flask will manage Flask components.
 
-__Beshir: __As a CS major, I have worked on CS projects and have experiences in multiple languages and using GitHub. I enjoy these types of projects and which keeps me motivated for the task. 
+While we do not plan for a rotating role system, we are open to reassigning roles upon consensus based on project needs.
 
-__Taha:__ Have worked in CS related team projects for website development, familiar with several languages, passionate about CS, good communication and motivating other members to do so.
+### Roles
+- **David:** Sets meeting agenda and schedules extra meeting times.
+- **Adit:**
+- **Beshir:** Completes assigned parts of the project on time and attends meetings.
+- **Taha:** Delivers work and attends meetings punctually.
 
-__How will we capitalize on the strengths of each member? __
+---
 
-By delegating efficiently and effectively. For example, if someone has experience with html, we will let them handle html, and if someone else is good at working with Flask, they can handle the Flask components. Together as a group we are happy with task delegation, and are not planning for a rotating role system. We do have set roles listed below. If roles need to be re-assigned as the project continues we will do that upon consensus. (depending on how we fared so far in the project) 
+## Team Expectations
 
-Roles:
+### Communication
+- **Primary Mode:** Group text.
+- **Meeting Coordination:** Email with calendar invites.
+- **Check-ins:** Group text updates at least once every weekday.
 
-	David: Sets meeting agenda and schedules extra meeting times. 
+### Meetings
+- **Frequency:** Weekly on Wednesday at 8 PM for 1 hour on Zoom.
+- **Policy for Absences:** If a teammate misses four meetings, including being late for more than 30 minutes, we will contact Jean.
 
-	Adit: 
+### Respectful Communication
+- Active listening and turn-taking for feedback.
+- Acknowledging that disagreements are part of improvement.
+- Cooling off for a few minutes if conversations get heated.
 
-	Beshir: Complete my assigned part of the project on time and come to meetings
+### Participation
+- Contributions: Coding, feedback, active listening, and research.
+- Time Commitment: At least 10 hours per week outside class.
+- Support: Members must communicate struggles to the group.
 
-	Taha: Be on time with your part of the work and for meetings. 
+### Decision-Making
+- Consensus-based, with majority rule if necessary.
 
-__What are the expectations that will guide our team?__
+### Delegation Guidelines
+- Assign tasks based on proficiency and efficiency.
+- Unfamiliar tasks: Volunteers first, followed by rock-paper-scissors.
 
-The primary mode of general communication will be through group text, with emails (calendar invites) as the mode to set up meetings. We will update each other on the status of our delegated work, checking the group text at least once every weekday. The meetings will be once a week on Wednesday 8pm for 1 hour on Zoom.  If a teammate misses four meetings, including being late for more than 30 minutes, we will contact Jean as necessary. 
+### Conflict Resolution
+- Two warnings for failing to meet work standards, followed by contacting Jean if necessary.
 
-As a team we believe respectful communication looks like a give and take between listening and speaking. We will listen actively with each other, and wait our turn to give our feedback. When we disagree, we will understand that it is part of the process of creating something better. If conversations get too heated, we will take a couple minutes off the zoom call to cool down. Satisfactory participation to us is broad, as direct coding is not the only method of contributing meaningfully. We believe feedback, active listening, and research are all meaningful contributions team members could make. As for time contributions, we expect each member to contribute at least 10 hours outside of class to follow this project per week (or the equivalent amount of work done). We are happy to help out if a member is struggling, but it is up to the responsibility of the member to reach out and communicate to the rest of the team. If there is a member that can not meet these work contribution standards, we will give 2 warnings, then proceed to contacting Jean. 
+---
 
-We will make decisions through consensus, and if there is a disagreement that can not be resolved through just convincing, we will go with majority rule. 
+## Dataset Information
 
-A general rule for delegation will be efficiency and proficiency. We have members who are already familiar with Flask, HTML, and other things necessary for this project. We will delegate the tasks accordingly to make sure we keep our workflow quick and efficient. For tasks that nobody is familiar with, we will first go with volunteers, then into rock paper scissors. 
+### Summary
 
-__Dataset Information__
+### Metadata
+- **URL:**
+- **Date Downloaded:**
+- **Authorship:**
+- **Exact Name & Version:**
+- **Terms of Use:**
+- **Suggested Citation:**
 
-	Summary: 
+### User Interactions
 
+#### Interaction 1
+- **Potential Users:**
+- **Interaction Mechanism:**
+- **Potential Benefits:**
+- **Potential Harms:**
 
+#### Interaction 2
+- **Potential Users:**
+- **Interaction Mechanism:**
+- **Potential Benefits:**
+- **Potential Harms:**
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Metadata for the Dataset: (URL, date downloaded, authorship, exact name and version, terms of use, suggested citation) "). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+#### Interaction 3
+- **Potential Users:**
+- **Interaction Mechanism:**
+- **Potential Benefits:**
+- **Potential Harms:**
 
-[Metadata for the Dataset: (URL, date downloaded, authorship, exact name and version, terms of use, suggested citation) ](https://docs.google.com/document/d/1dM-UDQCrBpyYyWRQH4XyMqUGFZft0-0KUXs7PVM2790/edit#heading=h.sd5w0bnmnb8k)
-
-	Interesting / Meaningful ways that a user could interact with the data
-
-
-
-1. .
-    1. Potential Users:
-    2. Interaction Mechanism:
-    3. Potential Benefits: 
-    4. Potential Harms: 
-2. .
-    5. Potential Users:
-    6. Interaction Mechanism:
-    7. Potential Benefits: 
-    8. Potential Harms: 
-3. .
-    9. Potential Users:
-    10. Interaction Mechanism:
-    11. Potential Benefits: 
-    12. Potential Harms: 
+*Consider the advantages & disadvantages of the dataset and interaction mechanisms, as well as different types of benefits & harms (e.g., knowledge, emotions).
