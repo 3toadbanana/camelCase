@@ -1,4 +1,4 @@
-# Carl's Nutrition
+# Nutrition Insights
 
 **Team Members:** David Song, Adit Garg, Ahmed Khalili, Beshir Said  
 **Instructor:** Jean Salac  
@@ -8,12 +8,12 @@
 ---
 
 ## Working Title
-Carl's Nutrition
+Nutrition Insights
 
 ---
 
 ## Team Goals
-For the final project, we want to make a functioning, aesthetic website that showcases Bon Appetit’s, Carleton College’s food vendor, nutritional and allergy data. In the bigger picture, we want to get a clear understanding of real-world programming while honing key skills such as team collaboration, multi-language coding, meaningful documentation, and applied ethical reasoning.
+For the final project, we want to make a functioning, aesthetic website that showcases nutritional data. In the bigger picture, we want to get a clear understanding of real-world programming while honing key skills such as team collaboration, multi-language coding, meaningful documentation, and applied ethical reasoning.
 
 ---
 
@@ -24,7 +24,7 @@ Our group has members who have previously worked with Flask, including a member 
 
 ### Individual Strengths
 - **Adit:** Has worked with Flask before, with experiences in multiple languages. As a prospective CS Major, he is motivated and engaged with this project.
-- **David:** POSC major. Strong writing background. Familiar with applied ethics in real-world situations. Although relatively less experienced in CS, this factor can allow for him to have a closer consumer/student perspective for the final product. Experienced with keeping meeting notes, organizing meetings, and streamlining/delegating work within a group.
+- **David:** POSC major. Strong writing background. Familiar with applied ethics in real-world situations. Although relatively less experienced in CS, this factor can allow for him to have a closer consumer perspective for the final product. Experienced with keeping meeting notes, organizing meetings, and streamlining/delegating work within a group.
 - **Beshir:** As a CS major, I have worked on CS projects and have experience in multiple languages and using GitHub. I enjoy these types of projects, which keeps me motivated for the task.
 - **Taha:** Have worked in CS-related team projects for website development, familiar with several languages, passionate about CS, good communication, and motivating other members.
 
@@ -32,7 +32,10 @@ Our group has members who have previously worked with Flask, including a member 
 
 ## Capitalizing on Strengths
 
-By delegating efficiently and effectively. For example, if someone has experience with html, we will let them handle html, and if someone else is good at working with Flask, they can handle the Flask components. Together as a group we are happy with task delegation, and are not planning for a rotating role system. We do have set roles listed below. If roles need to be re-assigned as the project continues we will do that upon consensus. 
+### Delegation Strategy
+We will delegate tasks efficiently and effectively. For example:
+- Members experienced with HTML will handle HTML components.
+- Members proficient with Flask will manage Flask components.
 
 While we do not plan for a rotating role system, we are open to reassigning roles upon consensus based on project needs.
 
@@ -51,7 +54,6 @@ As a team we believe respectful communication looks like a give and take between
 We will make decisions through consensus, and if there is a disagreement that can not be resolved through just convincing, we will go with majority rule. 
 A general rule for delegation will be efficiency and proficiency. We have members who are already familiar with Flask, HTML, and other things necessary for this project. We will delegate the tasks accordingly to make sure we keep our workflow quick and efficient. For tasks that nobody is familiar with, we will first go with volunteers, then into rock paper scissors. 
 
-
 ---
 
 ## Dataset Information
@@ -66,24 +68,18 @@ A general rule for delegation will be efficiency and proficiency. We have member
 - **Terms of Use:**
 - **Suggested Citation:**
 
-### User Interactions
+---
 
-#### Interaction 1
-- **Potential Users:**
-- **Interaction Mechanism:**
-- **Potential Benefits:**
+## User Interactions
+
+### Interaction 1
+- **Potential Users:** Individuals interested in managing their nutrition and dietary needs.
+- **Interaction Mechanism:** Searchable menu with filters for nutritional content and allergens.
+- **Potential Benefits:** Easy access to personalized food options and increased awareness of dietary choices.
+- **Potential Harms:** Potential for misinterpretation of data or reliance on incomplete information.
+
+### Interation 2
+- **Potential Users:** 
+- **Interaction Mechanism:** 
+- **Potential Benefits:** 
 - **Potential Harms:**
-
-#### Interaction 2
-- **Potential Users:**
-- **Interaction Mechanism:**
-- **Potential Benefits:**
-- **Potential Harms:**
-
-#### Interaction 3
-- **Potential Users:**
-- **Interaction Mechanism:**
-- **Potential Benefits:**
-- **Potential Harms:**
-
-*Consider the advantages & disadvantages of the dataset and interaction mechanisms, as well as different types of benefits & harms (e.g., knowledge, emotions).
