@@ -30,10 +30,10 @@ Our group has members who have previously worked with Flask, including a member 
 
 ---
 
-## Capitalizing on Strengths
+## Our Strengths
 
 ### Delegation Strategy
-We will delegate tasks efficiently and effectively. For example:
+Overall, our group has members who have previously worked with Flask, with a member experienced with building as well as deploying a dataset-backed website. We have good communication, with clearly agreed upon modes of contact and meeting times. Below are some individual strengths we bring to the group. 
 - Members experienced with HTML will handle HTML components.
 - Members proficient with Flask will manage Flask components.
 
