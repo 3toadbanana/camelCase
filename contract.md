@@ -41,9 +41,9 @@ While we do not plan for a rotating role system, we are open to reassigning role
 
 ### Roles
 - **David:** Sets meeting agenda and schedules extra meeting times.
-- **Adit:**
-- **Beshir:** Completes assigned parts of the project on time and attends meetings.
-- **Taha:** Delivers work and attends meetings punctually.
+- **Adit:** Designated debugging, check for final testing of code.
+- **Beshir:** Build initial tests, notify parts of code built.
+- **Taha:** Be on time with your part of the work and for meetings.
 
 ---
 
@@ -73,13 +73,22 @@ A general rule for delegation will be efficiency and proficiency. We have member
 ## User Interactions
 
 ### Interaction 1
-- **Potential Users:** Individuals interested in managing their nutrition and dietary needs.
-- **Interaction Mechanism:** Searchable menu with filters for nutritional content and allergens.
-- **Potential Benefits:** Easy access to personalized food options and increased awareness of dietary choices.
-- **Potential Harms:** Potential for misinterpretation of data or reliance on incomplete information.
+A user could search up a product and use a filter such as “lowest calorie” or “contains above ___ calcium” to get a result.
+- **Potential Users:** Health-conscious users, users with diet restrictions, dietitians.
+- **Interaction Mechanism:** Search & Filter. Users can search specific food items and apply filters for nutritional content.
+- **Potential Benefits:** Users gain a better understanding of the nutritional content of different foods, which can lead to more informed decisions about what to eat. With filters, users can find foods that fit their specific health or dietary goals, such as weight loss or increasing certain nutrients. By enabling users to make better dietary choices, they could improve their health outcomes.
+- **Potential Harms:** Too many filters or choices could overwhelm users, especially those who are not familiar with nutrition science. If the data provided is inaccurate or outdated, users might make poor dietary choices that negatively impact their health. Some users might develop unhealthy relationships with food, such as disordered eating, anxiety about food choices, or obsessing over nutrient content.
 
-### Interation 2
-- **Potential Users:** 
-- **Interaction Mechanism:** 
-- **Potential Benefits:** 
-- **Potential Harms:**
+### Interaction 2
+A user could generate reports on nutrition trends to improve health plans.
+- **Potential Users:** Health professionals.
+- **Interaction Mechanism:** Generate reports on patterns.
+- **Potential Benefits:** Helps professionals guide clients better.
+- **Potential Harms:** Misleading trends may cause poor advice.
+
+### Interaction 3
+A user could use a dashboard to view food trends for menu planning.
+- **Potential Users:** Restaurant managers.
+- **Interaction Mechanism:** Dashboard showing trends.
+- **Potential Benefits:** Helps create better menus.
+- **Potential Harms:** Ignoring uncommon diets.
