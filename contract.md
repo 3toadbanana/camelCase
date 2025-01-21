@@ -32,10 +32,7 @@ Our group has members who have previously worked with Flask, including a member 
 
 ## Capitalizing on Strengths
 
-### Delegation Strategy
-We will delegate tasks efficiently and effectively. For example:
-- Members experienced with HTML will handle HTML components.
-- Members proficient with Flask will manage Flask components.
+By delegating efficiently and effectively. For example, if someone has experience with html, we will let them handle html, and if someone else is good at working with Flask, they can handle the Flask components. Together as a group we are happy with task delegation, and are not planning for a rotating role system. We do have set roles listed below. If roles need to be re-assigned as the project continues we will do that upon consensus. 
 
 While we do not plan for a rotating role system, we are open to reassigning roles upon consensus based on project needs.
 
