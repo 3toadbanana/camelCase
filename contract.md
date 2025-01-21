@@ -1,9 +1,10 @@
+----->
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 2; WARNINGs: 0; ALERTS: 2.</p>
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 1; WARNINGs: 0; ALERTS: 1.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
 <p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
@@ -16,7 +17,7 @@ CS 257
 
 Jan 20 2025
 
-#H1 Working Title: Carl's Nutrition
+__Working Title: Carl's Nutrition__
 
 __What are the goals of our team? __
 
@@ -30,7 +31,7 @@ __Adit:__ Has worked with Flask before, with experiences in multiple languages. 
 
 __David:__ POSC major. Strong writing background. Familiar with applied ethics in real world situations. Although relatively less experienced in CS, this factor can allow for him to have a closer consumer/student perspective for the final product. Experienced with keeping meeting notes, organizing meetings, and streamlining/delegating work within a group. 
 
-__Beshir:  __As a CS major, I have worked on CS projects and have experiences in multiple languages and using GitHub. I enjoy these types of projects and which keeps me motivated for the task. 
+__Beshir: __As a CS major, I have worked on CS projects and have experiences in multiple languages and using GitHub. I enjoy these types of projects and which keeps me motivated for the task. 
 
 __Taha:__ Have worked in CS related team projects for website development, familiar with several languages, passionate about CS, good communication and motivating other members to do so.
 
@@ -62,7 +63,7 @@ __Dataset Information__
 
 	Summary: 
 
-	
+
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Metadata for the Dataset: (URL, date downloaded, authorship, exact name and version, terms of use, suggested citation) "). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -87,52 +88,3 @@ __Dataset Information__
     10. Interaction Mechanism:
     11. Potential Benefits: 
     12. Potential Harms: 
-
-*For questions 4c and 4d, I encourage you to consider (1) the advantages & disadvantages of the dataset and interaction mechanisms, and (2) different types of benefits & harms (e.g. knowledge, emotions).
-
-__Proposal Requirements__
-
-In your project proposal, you should include the following:
-
-
-
-1. Working title of your project    ✅
-2. A summary of the dataset(s) you will use in this project (e.g. topic, interesting variables, etc) 
-3. Metadata for the dataset(s) from the Dataset Records (URL, date downloaded, authorship, exact name and version, terms of use, suggested citation) 
-    1. _If you’re having trouble filling out the following fields for your dataset, it may be a sign that you need to double-check the source of your dataset._
-4. 3 interesting or meaningful ways that a user could interact with the data. For each user interaction, include descriptions of: 
-    2. Potential Users: Who may interact with your data? What are their motivations for interacting with the data? 
-    3. Interaction Mechanism: How may they interact with the data? (e.g. Search bar? Different tabs? Which variables in your dataset?) 
-    4. Potential Benefits: How may interacting with your data benefit users? Why?
-        * If you don’t think users will benefit, then why bother developing that user interaction? ¯\_(ツ)_/¯  
-    5. Potential Harms: How may interacting with your data harm or exclude users? Why?  
-        * If you don’t think users will feel harmed or excluded by interacting with your data, explain why. 
-
-For questions 4c and 4d, I encourage you to consider (1) the advantages & disadvantages of the dataset and interaction mechanisms, and (2) different types of benefits & harms (e.g. knowledge, emotions).
-
-
-### Proficiency
-
-
-
-- [ ] Team contract answers all four high-level questions (Team Contract Requirements Questions 1-4; the ones in bold)
-- [ ] Proposal includes a working title, a summary of the dataset, and descriptions of 3 user interactions (user, interaction, potential benefits, and potential harms)
-- [ ] Dataset is clearly identified and appropriate
-- [ ] Dataset is less than 100MB
-
-
-### Exemplary
-
-
-
-- [ ] All requirements for proficiency are met
-- [ ] Team contract addresses all the listed expectations (Team Contract Requirements Questions 4a-4g)
-- [ ] The commit to evaluate on the team repo is tagged with proposal (See instructions in 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "How to Submit"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[How to Submit](https://docs.google.com/document/d/1pXEgqts578CTXK76Ur0Sk-275LOyyZH4PhR3EFdPjmI/edit#heading=h.h8jfjcdyduzb))
-- [ ] Descriptions of 3 user interactions include considerations of (1) the advantages and disadvantages of their chosen dataset and interaction mechanisms and (2) different types of benefits and harms. If the team does not think a user may be harmed, they have provided a detailed justification. 
-- [ ] Proposal includes the metadata for the dataset(s)
-- [ ] Both the team contract and proposal are clear and concise, easy to understand, with few to no spelling or grammatical errors
-- [ ] Dataset is 25MB or smaller
