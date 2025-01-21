@@ -59,14 +59,16 @@ A general rule for delegation will be efficiency and proficiency. We have member
 ## Dataset Information
 
 ### Summary
+The dataset is a JSON file, containing information on different nutrients of different food items, such as protein, carbs, energy, total fat, sodium, calcium, etc. Since it is a JSON file, it is easy to isolate and access individual headers of different nutrients. 
+The dataset was processed from a larger dataset that had some superfluous and unnecessary information. 
 
-### Metadata
-- **URL:**
-- **Date Downloaded:**
-- **Authorship:**
-- **Exact Name & Version:**
-- **Terms of Use:**
-- **Suggested Citation:**
+### Metadata (current dataset is a modified version of the below)
+- **URL:** https://fdc.nal.usda.gov/download-datasets
+- **Date Downloaded:** 20th Jan, 2025
+- **Authorship:** USDA
+- **Exact Name & Version:** FNDDS 2021-2023
+- **Terms of Use:** Public Domain
+- **Suggested Citation:** 
 
 ---
 
