@@ -49,34 +49,11 @@ While we do not plan for a rotating role system, we are open to reassigning role
 
 ## Team Expectations
 
-### Communication
-- **Primary Mode:** Group text.
-- **Meeting Coordination:** Email with calendar invites.
-- **Check-ins:** Group text updates at least once every weekday.
+The primary mode of general communication will be through group text, with emails (calendar invites) as the mode to set up meetings. We will update each other on the status of our delegated work, checking the group text at least once every weekday. The meetings will be once a week on Wednesday 8pm for 1 hour on Zoom.  If a teammate misses four meetings, including being late for more than 30 minutes, we will contact Jean as necessary. 
+As a team we believe respectful communication looks like a give and take between listening and speaking. We will listen actively with each other, and wait our turn to give our feedback. When we disagree, we will understand that it is part of the process of creating something better. If conversations get too heated, we will take a couple minutes off the zoom call to cool down. Satisfactory participation to us is broad, as direct coding is not the only method of contributing meaningfully. We believe feedback, active listening, and research are all meaningful contributions team members could make. As for time contributions, we expect each member to contribute at least 10 hours outside of class to follow this project per week (or the equivalent amount of work done). We are happy to help out if a member is struggling, but it is up to the responsibility of the member to reach out and communicate to the rest of the team. If there is a member that can not meet these work contribution standards, we will give 2 warnings, then proceed to contacting Jean. 
+We will make decisions through consensus, and if there is a disagreement that can not be resolved through just convincing, we will go with majority rule. 
+A general rule for delegation will be efficiency and proficiency. We have members who are already familiar with Flask, HTML, and other things necessary for this project. We will delegate the tasks accordingly to make sure we keep our workflow quick and efficient. For tasks that nobody is familiar with, we will first go with volunteers, then into rock paper scissors. 
 
-### Meetings
-- **Frequency:** Weekly on Wednesday at 8 PM for 1 hour on Zoom.
-- **Policy for Absences:** If a teammate misses four meetings, including being late for more than 30 minutes, we will contact Jean.
-
-### Respectful Communication
-- Active listening and turn-taking for feedback.
-- Acknowledging that disagreements are part of improvement.
-- Cooling off for a few minutes if conversations get heated.
-
-### Participation
-- Contributions: Coding, feedback, active listening, and research.
-- Time Commitment: At least 10 hours per week outside class.
-- Support: Members must communicate struggles to the group.
-
-### Decision-Making
-- Consensus-based, with majority rule if necessary.
-
-### Delegation Guidelines
-- Assign tasks based on proficiency and efficiency.
-- Unfamiliar tasks: Volunteers first, followed by rock-paper-scissors.
-
-### Conflict Resolution
-- Two warnings for failing to meet work standards, followed by contacting Jean if necessary.
 
 ---
 
