@@ -1,6 +1,6 @@
 # Carl's Nutrition
 
-**Team Members:** Song, Garg, Khalili, Said  
+**Team Members:** David Song, Adit Garg, Ahmed Khalili, Beshir Said  
 **Instructor:** Jean Salac  
 **Course:** CS 257  
 **Date:** Jan 20, 2025  
