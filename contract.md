@@ -71,22 +71,27 @@ A general rule for delegation will be efficiency and proficiency. We have member
 ---
 
 ## User Interactions
-
 ### Interaction 1
+A user could input a list of food they ate for a meal, selecting from a dropdown menu of sorts. They would would then get a nutritional label of the estimated nutritional value of the food that they ate. This nutritional value will be based on our dataset and the serving sizes. 
+- **Potential Users:** Health-conscious users and users who want some insight into their dietary value.
+- **Interaction Mechanism:** Search & Dropdown. Users will type out what they want to input, picking the closest match from our database from a dropdown list.
+- **Potential Benefits:** Users will learn about what they are eating and potentially make changes in their diet to get more well-rounded nutrition from their food.
+- **Potential Harms:** Our database is not exhaustive, which may result in some inaccurate information. Users becoming too conscious of their nutrition may create an unhealthy relationships with food.
+### Interaction 2
 A user could search up a product and use a filter such as “lowest calorie” or “contains above ___ calcium” to get a result.
 - **Potential Users:** Health-conscious users, users with diet restrictions, dietitians.
 - **Interaction Mechanism:** Search & Filter. Users can search specific food items and apply filters for nutritional content.
 - **Potential Benefits:** Users gain a better understanding of the nutritional content of different foods, which can lead to more informed decisions about what to eat. With filters, users can find foods that fit their specific health or dietary goals, such as weight loss or increasing certain nutrients. By enabling users to make better dietary choices, they could improve their health outcomes.
 - **Potential Harms:** Too many filters or choices could overwhelm users, especially those who are not familiar with nutrition science. If the data provided is inaccurate or outdated, users might make poor dietary choices that negatively impact their health. Some users might develop unhealthy relationships with food, such as disordered eating, anxiety about food choices, or obsessing over nutrient content.
 
-### Interaction 2
+### Interaction 3
 A user could generate reports on nutrition trends to improve health plans.
 - **Potential Users:** Health professionals.
 - **Interaction Mechanism:** Generate reports on patterns.
 - **Potential Benefits:** Helps professionals guide clients better.
 - **Potential Harms:** Misleading trends may cause poor advice.
 
-### Interaction 3
+### Interaction 4
 A user could use a dashboard to view food trends for menu planning.
 - **Potential Users:** Restaurant managers.
 - **Interaction Mechanism:** Dashboard showing trends.
